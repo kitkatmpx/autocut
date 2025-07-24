@@ -7,3 +7,4 @@ python-dotenv
 tqdm
 numpy
 opencv-python
+srt

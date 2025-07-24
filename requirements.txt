@@ -1,10 +1,15 @@
+flask
 openai
 yt-dlp
 ffmpeg-python
 whisper
-flask
 python-dotenv
 tqdm
 numpy
 opencv-python
 srt
+torch==2.0.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+pydub
+moviepy
+scipy
+requests

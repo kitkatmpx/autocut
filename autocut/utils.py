@@ -4,7 +4,7 @@ import re
 
 import ffmpeg
 import numpy as np
-import opencc
+import cv2
 import srt
 
 

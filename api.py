@@ -1,5 +1,4 @@
 from flask import Flask, request, jsonify
-from inference import clip_main
 
 app = Flask(__name__)
 
